@@ -1,0 +1,8 @@
+
+5
+1 elemer xib 9
+2 gyozo xib 7
+3 bela xib 5
+4 eva xih 9
+5 pista xih 10
+

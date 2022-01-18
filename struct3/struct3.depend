@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642491481 source:e:\varga kincso\struct3\main.cpp
+	<iostream>
+	<fstream>
+
